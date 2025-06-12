@@ -33,5 +33,5 @@ export default function RootLayout({
         </SupervibeProvider>
       </body>
     </html>
-  );
+  )
 }
